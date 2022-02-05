@@ -43,8 +43,6 @@
     import MyInput from "@/components/UI/MyInput";
     import MyButton from "@/components/UI/MyButton";
     import MySelect from "@/components/UI/MySelect";
-    import axios from "axios";
-    import {ref} from 'vue'
     import useSortedPosts from "../hooks/useSortedPosts";
     import useSortedAndSearchPosts from "../hooks/useSortedAndSearchPosts";
     import {usePosts} from "../hooks/usePosts";
